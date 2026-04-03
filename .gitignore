@@ -1,0 +1,12 @@
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+#ignoire vscode AI rules
+.github\instructions\codacy.instructions.md
+#local env files
+.env
+.env.local
+.lh/
+.vscode/
+.history/
